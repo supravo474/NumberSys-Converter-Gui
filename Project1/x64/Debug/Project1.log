@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+F:\Private\IMPORTANT\C_C++ PRACTICE\RandomStuff\Winforms\Project1\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1104: cannot open file 'ucrtd.lib'
